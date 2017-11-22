@@ -1,6 +1,8 @@
-package com.base;
+package com.generics.ginterface;
 
 /**
+ * 泛型接口
+ *
  * @author spuerKun
  * @date 17/11/10.
  */

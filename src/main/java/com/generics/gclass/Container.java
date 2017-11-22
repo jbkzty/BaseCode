@@ -1,4 +1,4 @@
-package com.generics;
+package com.generics.gclass;
 
 /**
  * 泛型类

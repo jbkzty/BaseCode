@@ -1,4 +1,4 @@
-package com.base;
+package com.generics.ginterface;
 
 /**
  * @author spuerKun
